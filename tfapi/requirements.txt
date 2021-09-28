@@ -1,0 +1,5 @@
+tensorflow==2.6.0
+opencv-python
+requests==2.25.1
+flask
+keras
